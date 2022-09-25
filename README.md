@@ -1,4 +1,17 @@
-### Hi there 👋
+### 이현빈 / Joshua Hyunbin Lee
+---
+# 🫠 Who am I?
+I'm an undergraduate student at KAIST, majoring CS. I'm currently at Georgia Tech as an exchange student!
+
+## 🧐 I am interested in..
+- AI/ML
+- Computer Graphics
+- Computer Vision
+- Rust
+
+# 📫 How to reach me
+Email me!
+jshyunbin@gmail.com 
 
 <!--
 **jshyunbin/jshyunbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
