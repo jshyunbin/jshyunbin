@@ -1,15 +1,15 @@
-### 이현빈 / Joshua Hyunbin Lee
+# 이현빈 / Joshua Hyunbin Lee
 ---
-# 🫠 Who am I?
+## 🫠 Who am I?
 I'm an undergraduate student at KAIST, majoring CS. I'm currently at Georgia Tech as an exchange student!
 
-## 🧐 I am interested in..
+### 🧐 I am interested in..
 - AI/ML
 - Computer Graphics
 - Computer Vision
 - Rust
 
-# 📫 How to reach me
+## 📫 How to reach me
 Email me!
 jshyunbin@gmail.com 
 
