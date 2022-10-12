@@ -8,6 +8,7 @@ I'm an undergraduate student at KAIST, majoring CS. I'm currently at Georgia Tec
 - Computer Graphics
 - Computer Vision
 - Rust
+- Web3 Development
 
 ## 📫 How to reach me
 Email me!
