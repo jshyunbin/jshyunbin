@@ -5,9 +5,10 @@ I'm an undergraduate student at KAIST, majoring CS.
 
 ### 🧐 I am interested in..
 - AI/ML
-- Computer Graphics
 - Computer Vision
 - Reinforcement Learning
+- LLM
+- Imitation Learning/Robotics
 
 ## 📫 How to reach me
 Email me!
