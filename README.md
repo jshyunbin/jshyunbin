@@ -4,7 +4,6 @@
 I'm an undergraduate student at KAIST, majoring CS.
 
 ### 🧐 I am interested in..
-- Quantitative Trading
 - AI/ML
 - Behavior Cloning/Robotics
 - Reinforcement Learning
