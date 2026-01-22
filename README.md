@@ -5,8 +5,9 @@ I'm an undergraduate student at KAIST, majoring CS.
 
 ### 🧐 I am interested in..
 - AI/ML
-- Behavior Cloning/Robotics
-- Reinforcement Learning
+- Imitation Learning
+- Learn from Demonstration
+- (Inverse) Reinforcement Learning
 - LLM
 
 ## 📫 How to reach me
