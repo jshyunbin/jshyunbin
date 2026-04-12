@@ -7,7 +7,7 @@ I'm an undergraduate student at KAIST, majoring CS.
 - AI/ML
 - Imitation Learning
 - Learn from Demonstration
-- (Inverse) Reinforcement Learning
+- Computer Graphics
 - LLM
 
 ## 📫 How to reach me
